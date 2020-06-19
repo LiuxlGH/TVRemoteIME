@@ -16,7 +16,7 @@ import java.util.List;
  */
 
 public class Environment {
-    public final static boolean needDebug = false;
+    public final static boolean needDebug = true;
 
     public static int adbServerPort = 5555;
 
