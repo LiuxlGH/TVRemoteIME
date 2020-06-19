@@ -162,10 +162,9 @@
 
         <ImageView
             android:id="@+id/ivReward"
-            android:layout_width="610px"
-            android:layout_height="352px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
-            android:layout_marginTop="5dp"
-            android:src="@drawable/reward" />
+            android:layout_marginTop="5dp" />
     </LinearLayout>
 </RelativeLayout>
